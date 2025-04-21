@@ -1,6 +1,6 @@
 from fpdf import FPDF
 import logging
-from typing import Dict, Optional
+from typing import Dict
 import os
 from datetime import datetime
 import json

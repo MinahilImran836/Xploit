@@ -28,15 +28,6 @@ class DNSTools:
         ]
         
     def find_subdomains(self, domain: str) -> Dict:
-        """
-        Find subdomains using multiple techniques.
-        
-        Args:
-            domain: Target domain
-            
-        Returns:
-            Dictionary containing found subdomains and metadata
-        """
         try:
             results = {
                 "domain": domain,
@@ -44,8 +35,7 @@ class DNSTools:
                 "techniques": [],
                 "errors": []
             }
-            
-            # Technique 1: DNS Zone Transfer
+    
             try:
                 results["techniques"].append("DNS Zone Transfer")
                 zone_results = self._try_zone_transfer(domain)
@@ -121,7 +111,6 @@ class DNSTools:
         return found_subdomains
         
     def _check_ct_logs(self, domain: str) -> List[str]:
-        """Check Certificate Transparency logs."""
         subdomains = []
         try:
             # Using crt.sh API
@@ -138,15 +127,6 @@ class DNSTools:
         return subdomains
         
     def get_all_dns_records(self, domain: str) -> Dict:
-        """
-        Get all DNS records for a domain.
-        
-        Args:
-            domain: Target domain
-            
-        Returns:
-            Dictionary containing DNS records
-        """
         try:
             results = {
                 "domain": domain,
@@ -178,17 +158,7 @@ class DNSTools:
             }
             
     def get_reverse_dns(self, ip: str) -> Dict:
-        """
-        Perform reverse DNS lookup.
-        
-        Args:
-            ip: IP address
-            
-        Returns:
-            Dictionary containing reverse DNS information
-        """
         try:
-            # Validate IP address
             try:
                 socket.inet_aton(ip)
             except socket.error:
@@ -216,20 +186,10 @@ class DNSTools:
             }
             
     def validate_domain(self, domain: str) -> bool:
-        """Validate domain name format."""
         pattern = r'^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$'
         return bool(re.match(pattern, domain))
         
     def get_dns_servers(self, domain: str) -> Dict:
-        """
-        Get DNS servers for a domain.
-        
-        Args:
-            domain: Target domain
-            
-        Returns:
-            Dictionary containing DNS server information
-        """
         try:
             results = {
                 "domain": domain,

@@ -5,7 +5,6 @@ from datetime import datetime
 import logging
 from typing import Dict, Optional, List
 import requests
-from urllib.parse import urlparse
 
 class SSLChecker:
     def __init__(self):

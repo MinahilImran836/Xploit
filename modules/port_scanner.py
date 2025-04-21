@@ -1,9 +1,7 @@
 import socket
 import threading
-import time
 from queue import Queue
-import logging
-from typing import List, Tuple, Dict
+from typing import Tuple, Dict
 
 class PortScanner:
     def __init__(self):

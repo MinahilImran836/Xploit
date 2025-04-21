@@ -1,0 +1,41 @@
+2025-04-22 00:36:38,006 - WARNING - Not running with administrator privileges. Some scan types may not work properly.
+2025-04-22 00:36:55,836 - WARNING - Not running with administrator privileges. Some scan types may not work properly.
+2025-04-22 00:47:30,050 - WARNING - Not running with administrator privileges. Some scan types may not work properly.
+2025-04-22 00:48:11,462 - INFO - Added hidden_port data to report generator
+2025-04-22 00:48:24,029 - INFO - Added hidden_port data to report generator
+2025-04-22 00:48:27,113 - INFO - Added hidden_port data to report generator
+2025-04-22 00:49:37,862 - WARNING - Not running with administrator privileges. Some scan types may not work properly.
+2025-04-22 00:49:49,236 - INFO - Added hidden_port data to report generator
+2025-04-22 00:52:24,368 - INFO - Added hidden_port data to report generator
+2025-04-22 00:52:56,952 - INFO - Added hidden_port data to report generator
+2025-04-22 00:55:10,271 - WARNING - Could not resolve MAC address for 192.168.1.1. Using broadcast.
+2025-04-22 00:55:16,682 - INFO - Added hidden_port data to report generator
+2025-04-22 00:57:30,229 - WARNING - Could not resolve MAC address for 192.168.1.1. Using broadcast.
+2025-04-22 00:57:34,635 - INFO - Added hidden_port data to report generator
+2025-04-22 00:57:39,991 - WARNING - Could not resolve MAC address for 192.168.1.1. Using broadcast.
+2025-04-22 00:57:44,303 - INFO - Added hidden_port data to report generator
+2025-04-22 00:57:57,666 - WARNING - Could not resolve MAC address for 192.168.1.1. Using broadcast.
+2025-04-22 00:58:01,965 - INFO - Added hidden_port data to report generator
+2025-04-22 00:58:20,640 - WARNING - Could not resolve MAC address for 192.168.1.1. Using broadcast.
+2025-04-22 00:58:25,054 - INFO - Added hidden_port data to report generator
+2025-04-22 01:02:21,166 - INFO - Added hidden_port data to report generator
+2025-04-22 01:02:31,968 - WARNING - Could not resolve MAC address for 104.22.54.228. Using broadcast.
+2025-04-22 01:02:38,287 - INFO - Added hidden_port data to report generator
+2025-04-22 01:03:28,472 - WARNING - Could not resolve MAC address for 104.22.54.228
+2025-04-22 01:03:28,472 - WARNING - Could not resolve MAC address for 104.22.54.228. Continuing with scan.
+2025-04-22 01:03:34,768 - INFO - Added hidden_port data to report generator
+2025-04-22 01:06:21,315 - WARNING - Could not resolve MAC address for 45.33.32.156. Using broadcast.
+2025-04-22 01:06:27,641 - INFO - Added hidden_port data to report generator
+2025-04-22 01:06:56,920 - WARNING - Could not resolve MAC address for 45.33.32.156. Using broadcast.
+2025-04-22 01:07:01,176 - INFO - Added hidden_port data to report generator
+2025-04-22 01:07:27,038 - WARNING - Could not resolve MAC address for 45.33.32.156. Using broadcast.
+2025-04-22 01:07:31,241 - INFO - Added hidden_port data to report generator
+2025-04-22 01:07:45,425 - INFO - Added exploit data to report generator
+2025-04-22 01:14:27,968 - INFO - Added exploit data to report generator
+2025-04-22 01:16:04,311 - INFO - Added exploit data to report generator
+2025-04-22 01:18:09,549 - INFO - Added exploit data to report generator
+2025-04-22 01:18:40,760 - INFO - Added exploit data to report generator
+2025-04-22 01:19:23,368 - INFO - Added exploit data to report generator
+2025-04-22 01:23:21,529 - INFO - Added password_crack data to report generator
+2025-04-22 01:23:38,358 - INFO - Added ssl_scan data to report generator
+2025-04-22 01:24:03,171 - INFO - Added dns_scan data to report generator
