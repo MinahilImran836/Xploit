@@ -39,3 +39,44 @@
 2025-04-22 01:23:21,529 - INFO - Added password_crack data to report generator
 2025-04-22 01:23:38,358 - INFO - Added ssl_scan data to report generator
 2025-04-22 01:24:03,171 - INFO - Added dns_scan data to report generator
+2025-04-22 08:12:09,999 - WARNING - Could not resolve MAC address for 96.7.128.175. Using broadcast.
+2025-04-22 08:12:12,533 - INFO - Added hidden_port data to report generator
+2025-04-22 08:12:58,179 - INFO - Added port_scan data to report generator
+2025-04-22 08:13:13,615 - WARNING - Could not resolve MAC address for 23.215.0.136. Using broadcast.
+2025-04-22 08:13:15,781 - INFO - Added hidden_port data to report generator
+2025-04-22 08:13:28,183 - WARNING - Could not resolve MAC address for 23.215.0.138. Using broadcast.
+2025-04-22 08:13:30,324 - INFO - Added hidden_port data to report generator
+2025-04-22 08:18:52,265 - INFO - Added hidden_port data to report generator
+2025-04-22 08:19:00,047 - WARNING - Could not resolve MAC address for 109.176.239.69. Using broadcast.
+2025-04-22 08:19:02,709 - INFO - Added hidden_port data to report generator
+2025-04-22 08:19:08,871 - WARNING - Could not resolve MAC address for 109.176.239.69. Using broadcast.
+2025-04-22 08:19:11,126 - INFO - Added hidden_port data to report generator
+2025-04-22 08:19:28,185 - INFO - Added port_scan data to report generator
+2025-04-22 08:19:38,487 - INFO - Added port_scan data to report generator
+2025-04-22 08:21:16,213 - INFO - Added ssl_scan data to report generator
+2025-04-22 08:22:17,801 - INFO - Added web_scan data to report generator
+2025-04-22 08:25:06,695 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:25:07,901 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:25:10,927 - INFO - Added web_scan data to report generator
+2025-04-22 08:30:30,846 - INFO - Added web_scan data to report generator
+2025-04-22 08:30:57,572 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:30:58,612 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:31:01,833 - INFO - Added web_scan data to report generator
+2025-04-22 08:33:20,528 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:33:21,461 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:33:24,606 - INFO - Added web_scan data to report generator
+2025-04-22 08:35:28,119 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:35:29,043 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:35:31,988 - INFO - Added web_scan data to report generator
+2025-04-22 08:36:08,166 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:36:09,091 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:36:12,096 - INFO - Added web_scan data to report generator
+2025-04-22 08:38:17,919 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:38:18,849 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:38:21,794 - INFO - Added web_scan data to report generator
+2025-04-22 08:39:25,710 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:39:26,631 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:39:29,648 - INFO - Added web_scan data to report generator
+2025-04-22 08:42:04,021 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:42:04,959 - ERROR - Error submitting form: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-22 08:42:07,922 - INFO - Added web_scan data to report generator
